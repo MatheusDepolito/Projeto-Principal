@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainWindow.qml</file>
+        <file>MainComponents/Background.qml</file>
+        <file>MainComponents/Header.qml</file>
+        <file>MainComponents/Body.qml</file>
+        <file>Imports/Botoes/ButtonColl.qml</file>
+        <file>Imports/Botoes/qmldir</file>
+        <file>Imports/Cores/Cores.qml</file>
+        <file>Imports/Cores/qmldir</file>
+        <file>Imports/Icons/media/svg/feather.svg</file>
+        <file>Imports/Icons/media/svg/home.svg</file>
+        <file>Imports/Icons/media/svg/menu.svg</file>
+        <file>Imports/Icons/media/svg/table.svg</file>
+        <file>Imports/Icons/media/svg/x.svg</file>
+        <file>Imports/Icons/Icon_01.qml</file>
+        <file>Imports/Icons/IconVault.qml</file>
+        <file>Imports/Icons/qmldir</file>
+        <file>Imports/Botoes/ButtonIcon.qml</file>
+        <file>Imports/Estados/qmldir</file>
+        <file>Imports/Estados/EstadoDeskMob.qml</file>
+        <file>Imports/Header/MenuHeader.qml</file>
+        <file>Imports/Header/qmldir</file>
+        <file>Imports/Header/MenuButtons.qml</file>
+        <file>Imports/Icons/media/svg/config.svg</file>
+        <file>Imports/Pages/Page1.qml</file>
+        <file>Imports/Pages/Page2.qml</file>
+        <file>Imports/Pages/Page3.qml</file>
+        <file>Imports/Pages/qmldir</file>
+        <file>Imports/Header/TabTopo.qml</file>
+        <file>Login.qml</file>
+        <file>Imports/CompsLogin/qmldir</file>
+        <file>Imports/CompsLogin/Form.qml</file>
+        <file>Imports/CompsLogin/ItemPart.qml</file>
+        <file>Imports/CompsLogin/ShapeCircle.qml</file>
+        <file>Imports/Icons/media/svg/minus.svg</file>
+        <file>Imports/Icons/media/svg/square.svg</file>
+        <file>Imports/Icons/media/svg/notify.svg</file>
+        <file>Imports/Icons/media/svg/mail.svg</file>
+        <file>Imports/Js/Collision.js</file>
+        <file>Imports/Botoes/Square.qml</file>
+    </qresource>
+</RCC>

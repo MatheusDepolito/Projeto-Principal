@@ -1,0 +1,3 @@
+module Cores
+
+singleton Cores 1.0 Cores.qml

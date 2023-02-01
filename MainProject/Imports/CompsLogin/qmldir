@@ -1,0 +1,5 @@
+module CompsLogin
+
+Form 1.0 Form.qml
+ItemPart 1.0 ItemPart.qml
+ShapeCircle 1.0 ShapeCircle.qml
